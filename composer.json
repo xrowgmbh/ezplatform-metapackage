@@ -1,5 +1,5 @@
 {
-    "name": "ezsystems/ezplatform-metapackage",
+    "name": "xrow/ezplatform-metapackage",
     "description": "eZ Platform Enterprise Edition Demo distribution",
     "homepage": "https://github.com/ezsystems/ezplatform-ee-demo",
     "license": "proprietary",
