@@ -37,6 +37,7 @@
         "ezsystems/ezplatform-page-fieldtype": "~1.0.1@dev",
         "ezsystems/ezplatform-page-builder": "~1.0.1@dev",
         "ezsystems/ezplatform-cron": "~2.0.0@dev",
+        "ezsystems/ezplatform-http-cache-fastly": "^1.1@dev",
         "ezsystems/ezplatform-automated-translation": "^2.0@rc",
         "ezplatform-i18n/ezplatform-i18n-fr_fr": "^2.0",
         "ezplatform-i18n/ezplatform-i18n-pl_pl": "^2.0",
