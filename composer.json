@@ -58,7 +58,8 @@
         "twig/twig": "^2.5",
         "white-october/pagerfanta-bundle": "^1.2.2",
         "willdurand/js-translation-bundle": "^2.6.6",
-        "kaliop/ezmigrationbundle": "^4.7"
+        "kaliop/ezmigrationbundle": "^4.7",
+        "ezsystems/ezplatform-automated-translation": "^2.0@rc"
     },
     "require-dev": {
         "behat/behat": "^3.5.0",
