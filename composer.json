@@ -59,7 +59,11 @@
         "white-october/pagerfanta-bundle": "^1.2.2",
         "willdurand/js-translation-bundle": "^2.6.6",
         "kaliop/ezmigrationbundle": "^4.7",
-        "ezsystems/ezplatform-automated-translation": "^2.0@rc"
+        "ezsystems/ezplatform-automated-translation": "^2.0@rc",
+        "ezsystems/comments-bundle": "^6.1",
+        "netgen/tagsbundle": "~3.3.3",
+        "ezsystems/recommendation-bundle": "~2.2.1",
+        "ezsystems/ezstudio-personalized-block": "~2.1@rc"
     },
     "require-dev": {
         "behat/behat": "^3.5.0",
