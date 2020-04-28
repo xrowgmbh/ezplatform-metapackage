@@ -71,7 +71,7 @@
         "overblog/graphiql-bundle": "^0.1.2",
         "phpunit/phpunit": "^6.5.13",
         "sensio/generator-bundle": "^3.1.7",
-        "symfony/phpunit-bridge": "^3.4.18",
+        "symfony/phpunit-bridge": "^4.1.12",
         "liuggio/fastest": "^1.6"
     },
     "conflict": {
